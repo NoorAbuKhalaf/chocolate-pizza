@@ -1,0 +1,102 @@
+html 
+{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#logo {
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 55px;
+
+}
+#theName {
+    font-family: 'Yellowtail', cursive;
+    font-size:40px;
+    position: relative;
+    left: 60px;
+}
+h1{
+    color: black;
+    font-family: 'Saira Condensed', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+h2 {
+    color: rgb(172, 172, 172);
+    font-family: 'Saira Condensed', sans-serif;
+
+}
+h3 {
+    color: rgb(141, 141, 141);
+    font-family: 'Saira Condensed', sans-serif;
+    font-size:small;
+    position: relative;
+    left: 65px;
+}
+.grayImg {
+    width: 100%;
+    margin: 50%;
+  
+}
+#print {
+    color: rgb(141, 141, 141);
+    font-family: 'Saira Condensed', sans-serif;
+    position: relative;
+    left: 1115px;
+
+}
+#printimg{
+    position: relative;
+    left: 1100px;
+    top: 15px;
+}
+li {
+    display: inline;
+    position: relative;
+    left: 910px;
+    bottom: 50px;
+}
+#bigImage {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+p {
+    color: rgb(73, 73, 73);
+    font-size: 20px;
+}
+
+#checkbox1 {
+    font-size: 25px;
+    font-family: 'Gochi Hand', cursive;
+    position: relative;
+    left: 80px;
+}
+#checkbox2 {
+    font-size: 25px;
+    font-family: 'Gochi Hand', cursive;
+    position: relative;
+    left: 500px;
+    bottom: 140px;
+}
+.btn {
+    color: rgb(255, 255, 255);
+    background-color: rgb(226, 104, 96);
+    height: 40px;
+    width:150px;
+    cursor: pointer;
+}
+
+footer{
+    border-top: darkgray;
+    padding: 20px;
+    color: rgb(180, 180, 180);
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: medium;
+}
+
+
